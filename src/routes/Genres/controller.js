@@ -1,6 +1,6 @@
 const axios = require('axios');
 const {Genero} = require('../../db.js')
-const {API, API_KEY} = process.env;
+// const {API, API_KEY} = process.env;
 // https://api.rawg.io/api/genres?key=20b2e31e4aaa455c83a213e801491cb7
 // //`${API}/genres?key=${API_KEY}`
 
